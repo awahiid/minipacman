@@ -1,0 +1,27 @@
+# Archivos compilados
+*.o
+*.a
+*.so
+
+# Ejecutables
+bin/
+*.exe
+*.out
+
+# IDEs
+.idea/
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependencias
+.cmake_depends
+CMakeFiles/
+
